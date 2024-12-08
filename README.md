@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jackson Taylor</h1>
 <h3 align="center">Bachelor's degree in electrical engineering and postgraduate degree in data science.</h3>
 
-- 🔭 I’m currently working on [Meu Pedido](https://github.com/jacksontaylorjp/meuFinanceiro)
+- 🔭 I’m currently working on [Meu Financeiro](https://github.com/jacksontaylorjp/meuFinanceiro)
 
 - 🌱 I’m currently learning **NestJs, SOLID.**
 
